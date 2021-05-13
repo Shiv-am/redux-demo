@@ -1,4 +1,4 @@
-const Buy_Cake = 'uy_Cake'
+const Buy_Cake = 'Buy_Cake'
 
 function buycake(){
     return{
