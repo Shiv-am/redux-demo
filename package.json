@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Shiv-am/redux-demo#readme",
   "dependencies": {
-    "redux": "^4.1.0"
+    "redux": "^4.1.0",
+    "redux-logger": "^3.0.6"
   }
 }
